@@ -26,7 +26,7 @@ const About = () => (
         <p className="text-lg leading-relaxed">
           I believe that through collaboration, determination, and a positive
           mindset, anything is possible. Our approach is customer-centric and
-          aims at creating long-lasting relationships.
+          aims at creating long-lasting relationships
         </p>
       </div>
     </div>
